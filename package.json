@@ -1,0 +1,20 @@
+{
+  "name": "validating-br-documents",
+  "version": "1.0.0",
+  "description": "- Este pacote não faz a verificação de autenticidade do documento informado.\r - Apenas verifica se o mesmo condiz com os padrões brasileiros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramospedro21/validating-br-documents.git"
+  },
+  "keywords": ["brasil", "documentos", "CPF", "CNPJ", "validacao"],
+  "author": "Pedro Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramospedro21/validating-br-documents/issues"
+  },
+  "homepage": "https://github.com/ramospedro21/validating-br-documents#readme"
+}
